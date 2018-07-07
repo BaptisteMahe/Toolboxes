@@ -25,7 +25,7 @@
 </html>
 ```
 ___
-# __ What goes in the ```<body> </body>```__ :
+# __What goes in the ```<body> </body>``` __ :
 
 ### __Headings :__
 
